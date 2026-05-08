@@ -84,7 +84,7 @@ fun_fact: Football tactics nerd who can debate 4-3-3 vs 4-2-3-1 for hours ⚽
 ## 🚀 Featured Projects
 
 ### 🧭 Smart Router — Intelligent LLM Routing _(SEDAI.IO)_
-> _ML-powered routing service that selects optimal LLMs based on prompt semantics. Production system — internals confidential._
+> _ML-powered routing service that selects optimal LLMs based on prompt semantics._
 
 ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
@@ -98,7 +98,7 @@ fun_fact: Football tactics nerd who can debate 4-3-3 vs 4-2-3-1 for hours ⚽
 ---
 
 ### 🔌 MDA Middleware — LLM Observability Platform _(SEDAI.IO)_
-> _Enterprise middleware for cross-provider LLM routing, cost tracking, and observability. Production system — internals confidential._
+> _Enterprise middleware for cross-provider LLM routing, cost tracking, and observability._
 
 ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
@@ -112,7 +112,7 @@ fun_fact: Football tactics nerd who can debate 4-3-3 vs 4-2-3-1 for hours ⚽
 ---
 
 ### 🏗️ IaC Workflows — Automated IaC Pipeline _(SEDAI.IO)_
-> _FastAPI service for analyzing Infrastructure-as-Code repos and automating config changes via PRs. Production system — internals confidential._
+> _FastAPI service for analyzing Infrastructure-as-Code repos and automating config changes via PRs._
 
 ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
